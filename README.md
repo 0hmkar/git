@@ -1,2 +1,2 @@
 # git
-Understanding git
+So lets GIT started
